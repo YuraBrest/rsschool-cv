@@ -5,4 +5,4 @@
 4. Skills: ***completed the course HTML/CSS/JS***
 5. Work experience: No experience in the field of IT yet
 6. Education: ***higher technical. Successfully сompleted courses HTML, CSS and JS and received a certificate at school IT-Academy***
-7. English proficiency:***А1***
+7. English proficiency: ***А1***
